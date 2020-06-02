@@ -19,7 +19,7 @@ In general, the more identifiers an application can provide, the easier it will 
 is for at least one instrument identifier to be provided.
 
 - Try to only use instrument identifiers as intended. E.g. the `ticker` property is meant for stock tickers specifically,
-if the identifier you want to share is not a stock ticker, or one of the other standardised ones, rather define 
+if the identifier you want to share is not a stock ticker, or one of the other standardised ones, rather define
 a property that makes it clear what value it is. This makes it easier for target applications.
 
 ## Type
@@ -50,7 +50,7 @@ https://fdc3.finos.org/schemas/next/instrument.schema.json
 
 ```js
 const instrument = {
-    type: 'fdc3.instrument'
+    type: 'fdc3.instrument',
     name: 'Microsoft',
     id: {
         ticker: 'MSFT',
