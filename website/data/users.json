@@ -6,19 +6,19 @@
         "isMember": false
     },
     {
-        "caption": "Finsemble",
-        "image": "/img/users/Finsemble.png",
-        "infoLink": "https://www.finsemble.com/",
-        "pinned": true,
-        "isMember": true
-    },
-    {
         "caption": "FactSet",
         "image": "/img/users/FactSet.png",
         "infoLink": "https://www.factset.com/",
         "pinned": true,
         "isMember": true
     },
+	{
+		"caption": "Finsemble",
+		"image": "/img/users/Finsemble.png",
+		"infoLink": "https://www.finsemble.com/",
+		"pinned": true,
+		"isMember": true
+	},
     {
         "caption": "Genesis Global",
         "image": "/img/users/Genesis.png",
